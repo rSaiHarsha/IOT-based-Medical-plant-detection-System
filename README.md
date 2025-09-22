@@ -27,5 +27,4 @@ This project is an IoT-based system for detecting and reporting medical plants u
 - `templates/` - HTML templates
 - `.env` - Environment variables (ignored by git)
 
-## License
-MIT
+
