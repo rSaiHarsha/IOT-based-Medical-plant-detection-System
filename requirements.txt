@@ -1,0 +1,9 @@
+flask
+flask-socketio
+flask-mail
+python-dotenv
+opencv-python
+ultralytics
+pymongo
+bson
+pyserial

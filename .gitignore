@@ -1,0 +1,4 @@
+# Ignore static files, environment variables, and sensitive files
+static/
+.env
+mailAppPassword.txt
